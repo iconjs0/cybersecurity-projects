@@ -1,4 +1,4 @@
-# Cybersecurity Projects 🚀
+# Cybersecurity Projects 
 
 ## 📂 About
 This repository contains my personal projects, notes, and scripts related to **Ethical Hacking, Digital Forensics, and Cybersecurity Research**.
